@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/internship-portfolio-project/static/css/main.437362d8.css",
+    "main.js": "/internship-portfolio-project/static/js/main.e9755e9d.js",
+    "static/media/finalTTT.png": "/internship-portfolio-project/static/media/finalTTT.8833b32fb72cf6a286e8.png",
+    "static/media/finalWeather.png": "/internship-portfolio-project/static/media/finalWeather.fa0e6e8e623cfde771eb.png",
+    "static/media/bg5.jpg": "/internship-portfolio-project/static/media/bg5.35b287ede2b5196220ac.jpg",
+    "static/media/aboutImg.jpg": "/internship-portfolio-project/static/media/aboutImg.494849bc83b3f2fb5a1e.jpg",
+    "static/media/finalCounter.png": "/internship-portfolio-project/static/media/finalCounter.f6688416326384858c3a.png",
+    "static/media/img.jpg": "/internship-portfolio-project/static/media/img.5c94ed09870e25ce361b.jpg",
+    "static/media/topImg.jpg": "/internship-portfolio-project/static/media/topImg.c76dea995f3873992a67.jpg",
+    "index.html": "/internship-portfolio-project/index.html",
+    "main.437362d8.css.map": "/internship-portfolio-project/static/css/main.437362d8.css.map",
+    "main.e9755e9d.js.map": "/internship-portfolio-project/static/js/main.e9755e9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.437362d8.css",
+    "static/js/main.e9755e9d.js"
+  ]
+}
